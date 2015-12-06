@@ -8,4 +8,5 @@
  */
 class Categorie
 {
+    $cat;
 }
