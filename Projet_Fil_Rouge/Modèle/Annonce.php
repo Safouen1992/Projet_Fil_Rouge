@@ -8,5 +8,5 @@
  */
 class Annonce
 {
-$test;
+
 }
