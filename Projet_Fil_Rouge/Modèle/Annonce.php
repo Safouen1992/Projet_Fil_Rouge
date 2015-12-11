@@ -8,7 +8,7 @@
  */
 class Annonce
 
-gfiuiyub
+
 {
 
 }
